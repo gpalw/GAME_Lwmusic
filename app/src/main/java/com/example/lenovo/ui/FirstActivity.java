@@ -8,10 +8,6 @@ import android.widget.Button;
 
 import com.example.lenovo.lwmusic.R;
 
-/**
- * Created by lenovo on 2015/11/8.
- * 引导页
- */
 public class FirstActivity extends Activity {
     private Button btn_first;
 
